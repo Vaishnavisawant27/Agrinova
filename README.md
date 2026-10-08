@@ -213,17 +213,22 @@ Agrinova/
 - 🚁 Large-scale autonomous farm monitoring
 - 📊 Crop health analytics and reporting
 - 🛰️ Integration with field mapping and location data
+
 👩‍💻 Developer
 Vaishnavi Sawant
 BE Information Technology — 4th Year
 Jayawantrao Sawant College of Engineering, Hadapsar, Pune
+
 Areas of Interest
 Android Development • Java Development • Full Stack Development • Software Engineering
+
 Connect
 🔗 LinkedIn:
 https://www.linkedin.com/in/vaishnavi-sawant-73b72a325/
+
 📧 Email:
 vaishnavisawant272@gmail.com
+
 📌 Project Status
 🚧 Active Development
 Agrinova is an ongoing project focused on improving AI-based pest detection, drone integration, mobile application functionality, and smart agriculture capabilities.

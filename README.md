@@ -212,7 +212,7 @@ Agrinova/
 │
 ├── LICENSE
 └── README.md
-
+```
 🔮 Future Scope
 - 📍 GPS-based pest mapping
 - 🗺️ Field-level pest distribution maps

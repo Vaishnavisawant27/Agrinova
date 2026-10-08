@@ -1,4 +1,4 @@
-# 🌱 AGRINOVA — AI-Enabled Pest Detection Drone
+# 🌱 AGRINOVA — AI-Enabled Pest Detection Appilication 
 
 ### AI-Powered Smart Agriculture & Crop Monitoring System
 

@@ -183,25 +183,35 @@ Agrinova/
 │   └── the pi code for detection and showing op on app (1).py
 │
 ├── App code for agrinova/
-│   ├── DroneCaptureFragment.java
-│   ├── DroneFragment.java
-│   ├── DroneGalleryFragment.java
-│   ├── DroneStreamFragment.java
-│   ├── HomeActivity.java
-│   ├── LoginActivity.java
-│   ├── MainActivity.java
-│   ├── RegistrationActivity.java
-│   ├── activity_home.xml
-│   ├── activity_main.xml
-│   ├── activity_registration.xml
-│   ├── fragment_drone.xml
-│   ├── fragment_drone_capture.xml
-│   └── fragment_drone_gallery.xml
+│   ├── Java/
+│   │   ├── DroneCaptureFragment.java
+│   │   ├── DroneFragment.java
+│   │   ├── DroneGalleryFragment.java
+│   │   ├── DroneStreamFragment.java
+│   │   ├── HomeActivity.java
+│   │   ├── LoginActivity.java
+│   │   ├── MainActivity.java
+│   │   └── RegistrationActivity.java
+│   │
+│   └── XML/
+│       ├── activity_home.xml
+│       ├── activity_main.xml
+│       ├── activity_registration.xml
+│       ├── fragment_drone.xml
+│       ├── fragment_drone_capture.xml
+│       └── fragment_drone_gallery.xml
 │
-├── README.md
+├── docs/
+│   └── screenshots/
+│       ├── splash-screen.png
+│       ├── home-dashboard.png
+│       ├── drone-control.png
+│       ├── live-drone-feed.png
+│       ├── agri-market.png
+│       └── profile.png
+│
 ├── LICENSE
-└── .gitignore
-```
+└── README.md
 
 🔮 Future Scope
 - 📍 GPS-based pest mapping
